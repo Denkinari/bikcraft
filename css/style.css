@@ -1,11 +1,11 @@
-/* Reset */
 @import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 
-/* Header */
 @import "./global/header.css";
-
-/* Home */
-@import "./home/introducao.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
+
+/* Home */
+@import "./home/introducao.css";
